@@ -16,4 +16,16 @@ Day1: 10/1/23
 -> Uniswap: 
 
 --32:41 mins.
+
+-> What smart contracts have done till now?
+
+-> what is DEFI.
+-> DAOs
+-> NFTs,
+-> Your first transaction.
+  Setting up metamask wallet. ( Metamask ). & supported test networks.
+  
+  * https://ethereum.org/en/ 
+  
+--50:38
 ---------------
