@@ -28,4 +28,14 @@ Day1: 10/1/23
   * https://ethereum.org/en/ 
   
 --50:38
+
+
+-> Having fake ethers & setting up test net.
+-> Transaction fees & Gas fees.
+-> How blockchain works?
+-> What is Hash?
+-> 
+-- 1:06:00
+
+
 ---------------
